@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FIS EBook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="back">Назад</string>
+    <string name="next">Далее</string>
+    <string name="search">Поиск</string>
+    <string name="content_description">Описание контента</string>
+    <string name="big_font">Большой шрифт</string>
+    <string name="enable_search">Включить поиск</string>
+    <string name="exit">Выход</string>
+    <string name="app_description">Справочная информация про наушники</string>
+    <string name="read">Купить наушники в Павлодаре</string>
+    <string name="now">Сулпак</string>
+    <string name="today">ТехноДом</string>
+    <string name="tomorrow">Фора</string>
+    <string name="three_days">Мечта</string>
+    <string name="weekly">На неделю</string>
+    <string name="two_weeks">На 2 недели</string>
+    <string name="monthly">На месяц</string>
+    <string name="find">Найти</string>
+    <string name="definition">Наушники</string>
+    <string name="history">История</string>
+    <string name="specifications">Характеристики</string>
+    <string name="classification">Классификация</string>
+</resources>
